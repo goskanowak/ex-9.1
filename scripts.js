@@ -1,16 +1,3 @@
-//var triangleArea1 = getTriangleArea(-5, 10),
-//     triangleArea1 = getTriangleArea(2, -873),
-//     triangleArea1 = getTriangleArea(55, 6);
-
-//function getTriangleArea(a, h) {
-//    if (a,h > 0 ){
-//       alert('wynik dodatni');
-//        
-//    } else if (a,h < 0) {
-//        alert('Incorrect value');
-//    }
-//}
-
 
 function getTriangleArea(a, h) {
     if (a >= 0 && h >= 0) {
